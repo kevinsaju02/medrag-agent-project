@@ -18,7 +18,7 @@ The system is designed as a production-style demo that showcases:
 ## Demo Impact
 MedRAG Agent is designed to show how unstructured clinical notes can be turned into something operationally useful: structured fields, evidence-backed citations, risk scoring, and explicit validation flags. Instead of returning an opaque chatbot answer, the system makes the reasoning chain more auditable, which is the kind of pattern that matters in high-trust workflows like healthcare operations and clinical documentation review.
 
-## Planned Core Features
+## Core Features
 - Ad hoc inference on unseen clinical-style text
 - Structured JSON output with Pydantic validation
 - Retrieval layer that cites evidence from document chunks
@@ -43,7 +43,7 @@ MedRAG Agent is designed to show how unstructured clinical notes can be turned i
 - LLM integration: Ollama client interface with graceful fallback behavior when no local model is available
 - Debugging support: full orchestration state and per-node debug trace via `run_analysis_pipeline()`
 
-## Planned Tech Stack
+## Tech Stack
 - Python 3.10+
 - FastAPI
 - Streamlit
@@ -54,7 +54,7 @@ MedRAG Agent is designed to show how unstructured clinical notes can be turned i
 - FAISS or Chroma
 - pytest
 
-## Planned Project Structure
+## Project Structure
 ```text
 medrag-agent/
   app/
@@ -86,25 +86,7 @@ medrag-agent/
   .env.example
 ```
 
-## 5-Day Build Plan
-- Day 1: planning, architecture, schema design, and scaffold
-- Day 2: synthetic dataset creation and preprocessing
-- Day 3: ML baseline and retrieval layer
-- Day 4: multi-agent pipeline and LangGraph orchestration
-- Day 5: FastAPI, Streamlit UI, evaluation, and final polish
-
-## Current Status
-- Planning documents created
-- Day 1 scaffold completed
-- Initial schemas, config, logging, and placeholder analysis service added
-- Day 2 dataset and preprocessing pipeline completed
-- Synthetic dataset artifacts generated with 200 labeled records and train/validation/test splits
-- Day 3 ML baseline completed with saved model artifacts and evaluation metrics
-- Day 3 retrieval baseline completed with FAISS indexing and field-specific evidence retrieval
-- Day 4 multi-agent orchestration completed with LangGraph and end-to-end analysis service integration
-- Day 5 FastAPI backend, Streamlit UI, and end-to-end evaluation completed
-
-## Current Artifacts
+## Artifacts
 - ML model: `models/ml/risk_model.joblib`
 - ML metrics: `models/ml/evaluation_metrics.json`
 - End-to-end evaluation: `models/ml/end_to_end_evaluation.json`
