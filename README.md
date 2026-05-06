@@ -1,7 +1,7 @@
 # MedRAG Agent
 
 ## Overview
-MedRAG Agent is a Python-only portfolio project for analyzing unseen clinical-style text and returning structured JSON with:
+MedRAG Agent is a Python project for analyzing unseen clinical-style text and returning structured JSON with:
 - extracted medical fields
 - citation-backed evidence
 - traditional ML risk prediction
