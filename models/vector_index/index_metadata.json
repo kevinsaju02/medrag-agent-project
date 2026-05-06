@@ -1,0 +1,1002 @@
+[
+  {
+    "document_id": "doc_001",
+    "chunk_id": "doc_001_chunk_01",
+    "text": "Patient is a 52-year-old female with history of seasonal allergic rhinitis presenting with nasal congestion and sneezing. Started on loratadine. allergy review ordered. follow up with primary care if symptoms persist."
+  },
+  {
+    "document_id": "doc_002",
+    "chunk_id": "doc_002_chunk_01",
+    "text": "Follow-up visit: patient is a 81-year-old female. Known problems include gastroesophageal reflux disease. Reports heartburn and epigastric discomfort. Current treatment includes omeprazole. Testing discussed: dietary counseling. Next step: avoid late meals."
+  },
+  {
+    "document_id": "doc_003",
+    "chunk_id": "doc_003_chunk_01",
+    "text": "Follow-up visit: patient is a 31-year-old female. Known problems include gastroesophageal reflux disease. Reports heartburn and epigastric discomfort. Current treatment includes omeprazole. Testing discussed: dietary counseling. Next step: avoid late meals."
+  },
+  {
+    "document_id": "doc_004",
+    "chunk_id": "doc_004_chunk_01",
+    "text": "History: 81-year-old male with sepsis. Symptoms: high fever, hypotension, and confusion. Medications: broad spectrum antibiotics and intravenous fluids. Procedures: blood cultures and lactate test. Plan: hospital admission."
+  },
+  {
+    "document_id": "doc_005",
+    "chunk_id": "doc_005_chunk_01",
+    "text": "Assessment: pulmonary embolism. Subjective findings include pleuritic chest pain, tachycardia, and shortness of breath. Plan is to continue or start enoxaparin, obtain CT pulmonary angiography, and arrange immediate inpatient management. Patient is a 31-year-old female."
+  },
+  {
+    "document_id": "doc_006",
+    "chunk_id": "doc_006_chunk_01",
+    "text": "ED note for 81 year old male. Complaints include dysuria, urinary frequency, and fever. Assessment suggests urinary tract infection. Given or started nitrofurantoin. Workup includes urinalysis. Disposition: follow up urine culture."
+  },
+  {
+    "document_id": "doc_007",
+    "chunk_id": "doc_007_chunk_01",
+    "text": "Assessment: mild dehydration. Subjective findings include lightheadedness and dry mouth. Plan is to continue or start oral rehydration solution, obtain vital signs check, and arrange increase fluid intake. Patient is a 45-year-old female."
+  },
+  {
+    "document_id": "doc_008",
+    "chunk_id": "doc_008_chunk_01",
+    "text": "Assessment: mild dehydration. Subjective findings include lightheadedness and dry mouth. Plan is to continue or start oral rehydration solution, obtain vital signs check, and arrange increase fluid intake. Patient is a 24-year-old female."
+  },
+  {
+    "document_id": "doc_009",
+    "chunk_id": "doc_009_chunk_01",
+    "text": "History: 24-year-old male with viral upper respiratory infection. Symptoms: sore throat and mild cough. Medications: acetaminophen. Procedures: rapid strep test. Plan: supportive care at home."
+  },
+  {
+    "document_id": "doc_010",
+    "chunk_id": "doc_010_chunk_01",
+    "text": "Follow-up visit: patient is a 24-year-old female. Known problems include atrial fibrillation. Reports palpitations and fatigue. Current treatment includes diltiazem. Testing discussed: telemetry monitoring. Next step: outpatient cardiology review."
+  },
+  {
+    "document_id": "doc_011",
+    "chunk_id": "doc_011_chunk_01",
+    "text": "Assessment: community acquired pneumonia. Subjective findings include fever, productive cough, and shortness of breath. Plan is to continue or start azithromycin, obtain chest x-ray, and arrange follow up in 48 hours. Patient is a 81-year-old female."
+  },
+  {
+    "document_id": "doc_012",
+    "chunk_id": "doc_012_chunk_01",
+    "text": "Follow-up visit: patient is a 38-year-old male. Known problems include atrial fibrillation. Reports palpitations and fatigue. Current treatment includes diltiazem. Testing discussed: telemetry monitoring. Next step: outpatient cardiology review."
+  },
+  {
+    "document_id": "doc_013",
+    "chunk_id": "doc_013_chunk_01",
+    "text": "Follow-up visit: patient is a 24-year-old male. Known problems include stroke. Reports slurred speech, right arm weakness, and facial droop. Current treatment includes aspirin. Testing discussed: CT head. Next step: stroke team activation."
+  },
+  {
+    "document_id": "doc_014",
+    "chunk_id": "doc_014_chunk_01",
+    "text": "Follow-up visit: patient is a 52-year-old male. Known problems include stroke. Reports slurred speech, right arm weakness, and facial droop. Current treatment includes aspirin. Testing discussed: CT head. Next step: stroke team activation."
+  },
+  {
+    "document_id": "doc_015",
+    "chunk_id": "doc_015_chunk_01",
+    "text": "History: 31-year-old male with viral upper respiratory infection. Symptoms: sore throat and mild cough. Medications: acetaminophen. Procedures: rapid strep test. Plan: supportive care at home."
+  },
+  {
+    "document_id": "doc_016",
+    "chunk_id": "doc_016_chunk_01",
+    "text": "Follow-up visit: patient is a 81-year-old male. Known problems include gastroesophageal reflux disease. Reports heartburn and epigastric discomfort. Current treatment includes omeprazole. Testing discussed: dietary counseling. Next step: avoid late meals."
+  },
+  {
+    "document_id": "doc_017",
+    "chunk_id": "doc_017_chunk_01",
+    "text": "ED note for 45 year old female. Complaints include headache and neck tightness. Assessment suggests tension headache. Given or started ibuprofen. Workup includes neurologic exam. Disposition: hydration and rest."
+  },
+  {
+    "document_id": "doc_018",
+    "chunk_id": "doc_018_chunk_01",
+    "text": "Follow-up visit: patient is a 38-year-old male. Known problems include atrial fibrillation. Reports palpitations and fatigue. Current treatment includes diltiazem. Testing discussed: telemetry monitoring. Next step: outpatient cardiology review."
+  },
+  {
+    "document_id": "doc_019",
+    "chunk_id": "doc_019_chunk_01",
+    "text": "Assessment: community acquired pneumonia. Subjective findings include fever, productive cough, and shortness of breath. Plan is to continue or start azithromycin, obtain chest x-ray, and arrange follow up in 48 hours. Patient is a 59-year-old male."
+  },
+  {
+    "document_id": "doc_020",
+    "chunk_id": "doc_020_chunk_01",
+    "text": "Patient is a 81-year-old male with history of congestive heart failure and coronary artery disease presenting with severe shortness of breath, orthopnea, and leg swelling. Started on furosemide and aspirin. BNP test and echocardiogram ordered. urgent cardiology evaluation."
+  },
+  {
+    "document_id": "doc_021",
+    "chunk_id": "doc_021_chunk_01",
+    "text": "ED note for 31 year old female. Complaints include crushing chest pain, diaphoresis, and nausea. Assessment suggests acute coronary syndrome. Given or started nitroglycerin and heparin. Workup includes serial troponin test and ECG. Disposition: emergency cardiology consultation."
+  },
+  {
+    "document_id": "doc_022",
+    "chunk_id": "doc_022_chunk_01",
+    "text": "Patient is a 74-year-old male with history of seasonal allergic rhinitis presenting with nasal congestion and sneezing. Started on loratadine. allergy review ordered. follow up with primary care if symptoms persist."
+  },
+  {
+    "document_id": "doc_023",
+    "chunk_id": "doc_023_chunk_01",
+    "text": "Follow-up visit: patient is a 45-year-old female. Known problems include atrial fibrillation. Reports palpitations and fatigue. Current treatment includes diltiazem. Testing discussed: telemetry monitoring. Next step: outpatient cardiology review."
+  },
+  {
+    "document_id": "doc_024",
+    "chunk_id": "doc_024_chunk_01",
+    "text": "History: 45-year-old female with viral upper respiratory infection. Symptoms: sore throat and mild cough. Medications: acetaminophen. Procedures: rapid strep test. Plan: supportive care at home."
+  },
+  {
+    "document_id": "doc_025",
+    "chunk_id": "doc_025_chunk_01",
+    "text": "History: 52-year-old female with chronic obstructive pulmonary disease. Symptoms: wheezing and increased cough. Medications: albuterol and prednisone. Procedures: chest x-ray. Plan: return if breathing worsens."
+  },
+  {
+    "document_id": "doc_026",
+    "chunk_id": "doc_026_chunk_01",
+    "text": "Patient is a 24-year-old female with history of hypertension and type 2 diabetes presenting with shortness of breath and chest discomfort. Started on metoprolol. ECG ordered. cardiology follow up recommended."
+  },
+  {
+    "document_id": "doc_027",
+    "chunk_id": "doc_027_chunk_01",
+    "text": "Patient is a 81-year-old male with history of congestive heart failure and coronary artery disease presenting with severe shortness of breath, orthopnea, and leg swelling. Started on furosemide and aspirin. BNP test and echocardiogram ordered. urgent cardiology evaluation."
+  },
+  {
+    "document_id": "doc_028",
+    "chunk_id": "doc_028_chunk_01",
+    "text": "Assessment: mild dehydration. Subjective findings include lightheadedness and dry mouth. Plan is to continue or start oral rehydration solution, obtain vital signs check, and arrange increase fluid intake. Patient is a 67-year-old female."
+  },
+  {
+    "document_id": "doc_029",
+    "chunk_id": "doc_029_chunk_01",
+    "text": "Follow-up visit: patient is a 59-year-old male. Known problems include stroke. Reports slurred speech, right arm weakness, and facial droop. Current treatment includes aspirin. Testing discussed: CT head. Next step: stroke team activation."
+  },
+  {
+    "document_id": "doc_030",
+    "chunk_id": "doc_030_chunk_01",
+    "text": "History: 74-year-old male with chronic obstructive pulmonary disease. Symptoms: wheezing and increased cough. Medications: albuterol and prednisone. Procedures: chest x-ray. Plan: return if breathing worsens."
+  },
+  {
+    "document_id": "doc_031",
+    "chunk_id": "doc_031_chunk_01",
+    "text": "Assessment: mild dehydration. Subjective findings include lightheadedness and dry mouth. Plan is to continue or start oral rehydration solution, obtain vital signs check, and arrange increase fluid intake. Patient is a 31-year-old female."
+  },
+  {
+    "document_id": "doc_032",
+    "chunk_id": "doc_032_chunk_01",
+    "text": "Patient is a 59-year-old female with history of congestive heart failure and coronary artery disease presenting with severe shortness of breath, orthopnea, and leg swelling. Started on furosemide and aspirin. BNP test and echocardiogram ordered. urgent cardiology evaluation."
+  },
+  {
+    "document_id": "doc_033",
+    "chunk_id": "doc_033_chunk_01",
+    "text": "History: 45-year-old female with sepsis. Symptoms: high fever, hypotension, and confusion. Medications: broad spectrum antibiotics and intravenous fluids. Procedures: blood cultures and lactate test. Plan: hospital admission."
+  },
+  {
+    "document_id": "doc_034",
+    "chunk_id": "doc_034_chunk_01",
+    "text": "History: 45-year-old male with sepsis. Symptoms: high fever, hypotension, and confusion. Medications: broad spectrum antibiotics and intravenous fluids. Procedures: blood cultures and lactate test. Plan: hospital admission."
+  },
+  {
+    "document_id": "doc_035",
+    "chunk_id": "doc_035_chunk_01",
+    "text": "Patient is a 38-year-old male with history of hypertension and type 2 diabetes presenting with shortness of breath and chest discomfort. Started on metoprolol. ECG ordered. cardiology follow up recommended."
+  },
+  {
+    "document_id": "doc_036",
+    "chunk_id": "doc_036_chunk_01",
+    "text": "History: 59-year-old male with chronic obstructive pulmonary disease. Symptoms: wheezing and increased cough. Medications: albuterol and prednisone. Procedures: chest x-ray. Plan: return if breathing worsens."
+  },
+  {
+    "document_id": "doc_037",
+    "chunk_id": "doc_037_chunk_01",
+    "text": "History: 45-year-old male with viral upper respiratory infection. Symptoms: sore throat and mild cough. Medications: acetaminophen. Procedures: rapid strep test. Plan: supportive care at home."
+  },
+  {
+    "document_id": "doc_038",
+    "chunk_id": "doc_038_chunk_01",
+    "text": "Patient is a 67-year-old female with history of seasonal allergic rhinitis presenting with nasal congestion and sneezing. Started on loratadine. allergy review ordered. follow up with primary care if symptoms persist."
+  },
+  {
+    "document_id": "doc_039",
+    "chunk_id": "doc_039_chunk_01",
+    "text": "Patient is a 45-year-old male with history of congestive heart failure and coronary artery disease presenting with severe shortness of breath, orthopnea, and leg swelling. Started on furosemide and aspirin. BNP test and echocardiogram ordered. urgent cardiology evaluation."
+  },
+  {
+    "document_id": "doc_040",
+    "chunk_id": "doc_040_chunk_01",
+    "text": "ED note for 31 year old male. Complaints include crushing chest pain, diaphoresis, and nausea. Assessment suggests acute coronary syndrome. Given or started nitroglycerin and heparin. Workup includes serial troponin test and ECG. Disposition: emergency cardiology consultation."
+  },
+  {
+    "document_id": "doc_041",
+    "chunk_id": "doc_041_chunk_01",
+    "text": "Patient is a 52-year-old male with history of seasonal allergic rhinitis presenting with nasal congestion and sneezing. Started on loratadine. allergy review ordered. follow up with primary care if symptoms persist."
+  },
+  {
+    "document_id": "doc_042",
+    "chunk_id": "doc_042_chunk_01",
+    "text": "Assessment: pulmonary embolism. Subjective findings include pleuritic chest pain, tachycardia, and shortness of breath. Plan is to continue or start enoxaparin, obtain CT pulmonary angiography, and arrange immediate inpatient management. Patient is a 38-year-old male."
+  },
+  {
+    "document_id": "doc_043",
+    "chunk_id": "doc_043_chunk_01",
+    "text": "History: 81-year-old male with viral upper respiratory infection. Symptoms: sore throat and mild cough. Medications: acetaminophen. Procedures: rapid strep test. Plan: supportive care at home."
+  },
+  {
+    "document_id": "doc_044",
+    "chunk_id": "doc_044_chunk_01",
+    "text": "ED note for 59 year old male. Complaints include dysuria, urinary frequency, and fever. Assessment suggests urinary tract infection. Given or started nitrofurantoin. Workup includes urinalysis. Disposition: follow up urine culture."
+  },
+  {
+    "document_id": "doc_045",
+    "chunk_id": "doc_045_chunk_01",
+    "text": "Patient is a 74-year-old male with history of seasonal allergic rhinitis presenting with nasal congestion and sneezing. Started on loratadine. allergy review ordered. follow up with primary care if symptoms persist."
+  },
+  {
+    "document_id": "doc_046",
+    "chunk_id": "doc_046_chunk_01",
+    "text": "Assessment: pulmonary embolism. Subjective findings include pleuritic chest pain, tachycardia, and shortness of breath. Plan is to continue or start enoxaparin, obtain CT pulmonary angiography, and arrange immediate inpatient management. Patient is a 31-year-old female."
+  },
+  {
+    "document_id": "doc_047",
+    "chunk_id": "doc_047_chunk_01",
+    "text": "Assessment: mild dehydration. Subjective findings include lightheadedness and dry mouth. Plan is to continue or start oral rehydration solution, obtain vital signs check, and arrange increase fluid intake. Patient is a 81-year-old male."
+  },
+  {
+    "document_id": "doc_048",
+    "chunk_id": "doc_048_chunk_01",
+    "text": "Assessment: pulmonary embolism. Subjective findings include pleuritic chest pain, tachycardia, and shortness of breath. Plan is to continue or start enoxaparin, obtain CT pulmonary angiography, and arrange immediate inpatient management. Patient is a 38-year-old female."
+  },
+  {
+    "document_id": "doc_049",
+    "chunk_id": "doc_049_chunk_01",
+    "text": "Follow-up visit: patient is a 45-year-old female. Known problems include atrial fibrillation. Reports palpitations and fatigue. Current treatment includes diltiazem. Testing discussed: telemetry monitoring. Next step: outpatient cardiology review."
+  },
+  {
+    "document_id": "doc_050",
+    "chunk_id": "doc_050_chunk_01",
+    "text": "History: 52-year-old female with viral upper respiratory infection. Symptoms: sore throat and mild cough. Medications: acetaminophen. Procedures: rapid strep test. Plan: supportive care at home."
+  },
+  {
+    "document_id": "doc_051",
+    "chunk_id": "doc_051_chunk_01",
+    "text": "History: 31-year-old female with chronic obstructive pulmonary disease. Symptoms: wheezing and increased cough. Medications: albuterol and prednisone. Procedures: chest x-ray. Plan: return if breathing worsens."
+  },
+  {
+    "document_id": "doc_052",
+    "chunk_id": "doc_052_chunk_01",
+    "text": "ED note for 67 year old male. Complaints include headache and neck tightness. Assessment suggests tension headache. Given or started ibuprofen. Workup includes neurologic exam. Disposition: hydration and rest."
+  },
+  {
+    "document_id": "doc_053",
+    "chunk_id": "doc_053_chunk_01",
+    "text": "History: 31-year-old female with sepsis. Symptoms: high fever, hypotension, and confusion. Medications: broad spectrum antibiotics and intravenous fluids. Procedures: blood cultures and lactate test. Plan: hospital admission."
+  },
+  {
+    "document_id": "doc_054",
+    "chunk_id": "doc_054_chunk_01",
+    "text": "Follow-up visit: patient is a 67-year-old female. Known problems include stroke. Reports slurred speech, right arm weakness, and facial droop. Current treatment includes aspirin. Testing discussed: CT head. Next step: stroke team activation."
+  },
+  {
+    "document_id": "doc_055",
+    "chunk_id": "doc_055_chunk_01",
+    "text": "Assessment: community acquired pneumonia. Subjective findings include fever, productive cough, and shortness of breath. Plan is to continue or start azithromycin, obtain chest x-ray, and arrange follow up in 48 hours. Patient is a 38-year-old male."
+  },
+  {
+    "document_id": "doc_056",
+    "chunk_id": "doc_056_chunk_01",
+    "text": "Patient is a 38-year-old female with history of hypertension and type 2 diabetes presenting with shortness of breath and chest discomfort. Started on metoprolol. ECG ordered. cardiology follow up recommended."
+  },
+  {
+    "document_id": "doc_057",
+    "chunk_id": "doc_057_chunk_01",
+    "text": "Assessment: community acquired pneumonia. Subjective findings include fever, productive cough, and shortness of breath. Plan is to continue or start azithromycin, obtain chest x-ray, and arrange follow up in 48 hours. Patient is a 31-year-old female."
+  },
+  {
+    "document_id": "doc_058",
+    "chunk_id": "doc_058_chunk_01",
+    "text": "ED note for 67 year old female. Complaints include dysuria, urinary frequency, and fever. Assessment suggests urinary tract infection. Given or started nitrofurantoin. Workup includes urinalysis. Disposition: follow up urine culture."
+  },
+  {
+    "document_id": "doc_059",
+    "chunk_id": "doc_059_chunk_01",
+    "text": "History: 38-year-old female with chronic obstructive pulmonary disease. Symptoms: wheezing and increased cough. Medications: albuterol and prednisone. Procedures: chest x-ray. Plan: return if breathing worsens."
+  },
+  {
+    "document_id": "doc_060",
+    "chunk_id": "doc_060_chunk_01",
+    "text": "ED note for 81 year old male. Complaints include dysuria, urinary frequency, and fever. Assessment suggests urinary tract infection. Given or started nitrofurantoin. Workup includes urinalysis. Disposition: follow up urine culture."
+  },
+  {
+    "document_id": "doc_061",
+    "chunk_id": "doc_061_chunk_01",
+    "text": "Assessment: community acquired pneumonia. Subjective findings include fever, productive cough, and shortness of breath. Plan is to continue or start azithromycin, obtain chest x-ray, and arrange follow up in 48 hours. Patient is a 81-year-old male."
+  },
+  {
+    "document_id": "doc_062",
+    "chunk_id": "doc_062_chunk_01",
+    "text": "ED note for 38 year old female. Complaints include dysuria, urinary frequency, and fever. Assessment suggests urinary tract infection. Given or started nitrofurantoin. Workup includes urinalysis. Disposition: follow up urine culture."
+  },
+  {
+    "document_id": "doc_063",
+    "chunk_id": "doc_063_chunk_01",
+    "text": "ED note for 45 year old female. Complaints include crushing chest pain, diaphoresis, and nausea. Assessment suggests acute coronary syndrome. Given or started nitroglycerin and heparin. Workup includes serial troponin test and ECG. Disposition: emergency cardiology consultation."
+  },
+  {
+    "document_id": "doc_064",
+    "chunk_id": "doc_064_chunk_01",
+    "text": "Follow-up visit: patient is a 59-year-old female. Known problems include gastroesophageal reflux disease. Reports heartburn and epigastric discomfort. Current treatment includes omeprazole. Testing discussed: dietary counseling. Next step: avoid late meals."
+  },
+  {
+    "document_id": "doc_065",
+    "chunk_id": "doc_065_chunk_01",
+    "text": "ED note for 45 year old female. Complaints include headache and neck tightness. Assessment suggests tension headache. Given or started ibuprofen. Workup includes neurologic exam. Disposition: hydration and rest."
+  },
+  {
+    "document_id": "doc_066",
+    "chunk_id": "doc_066_chunk_01",
+    "text": "ED note for 45 year old male. Complaints include dysuria, urinary frequency, and fever. Assessment suggests urinary tract infection. Given or started nitrofurantoin. Workup includes urinalysis. Disposition: follow up urine culture."
+  },
+  {
+    "document_id": "doc_067",
+    "chunk_id": "doc_067_chunk_01",
+    "text": "Follow-up visit: patient is a 31-year-old female. Known problems include gastroesophageal reflux disease. Reports heartburn and epigastric discomfort. Current treatment includes omeprazole. Testing discussed: dietary counseling. Next step: avoid late meals."
+  },
+  {
+    "document_id": "doc_068",
+    "chunk_id": "doc_068_chunk_01",
+    "text": "History: 31-year-old female with sepsis. Symptoms: high fever, hypotension, and confusion. Medications: broad spectrum antibiotics and intravenous fluids. Procedures: blood cultures and lactate test. Plan: hospital admission."
+  },
+  {
+    "document_id": "doc_069",
+    "chunk_id": "doc_069_chunk_01",
+    "text": "ED note for 81 year old female. Complaints include dysuria, urinary frequency, and fever. Assessment suggests urinary tract infection. Given or started nitrofurantoin. Workup includes urinalysis. Disposition: follow up urine culture."
+  },
+  {
+    "document_id": "doc_070",
+    "chunk_id": "doc_070_chunk_01",
+    "text": "Assessment: pulmonary embolism. Subjective findings include pleuritic chest pain, tachycardia, and shortness of breath. Plan is to continue or start enoxaparin, obtain CT pulmonary angiography, and arrange immediate inpatient management. Patient is a 38-year-old male."
+  },
+  {
+    "document_id": "doc_071",
+    "chunk_id": "doc_071_chunk_01",
+    "text": "Patient is a 24-year-old female with history of seasonal allergic rhinitis presenting with nasal congestion and sneezing. Started on loratadine. allergy review ordered. follow up with primary care if symptoms persist."
+  },
+  {
+    "document_id": "doc_072",
+    "chunk_id": "doc_072_chunk_01",
+    "text": "Assessment: community acquired pneumonia. Subjective findings include fever, productive cough, and shortness of breath. Plan is to continue or start azithromycin, obtain chest x-ray, and arrange follow up in 48 hours. Patient is a 52-year-old female."
+  },
+  {
+    "document_id": "doc_073",
+    "chunk_id": "doc_073_chunk_01",
+    "text": "Assessment: pulmonary embolism. Subjective findings include pleuritic chest pain, tachycardia, and shortness of breath. Plan is to continue or start enoxaparin, obtain CT pulmonary angiography, and arrange immediate inpatient management. Patient is a 59-year-old female."
+  },
+  {
+    "document_id": "doc_074",
+    "chunk_id": "doc_074_chunk_01",
+    "text": "ED note for 38 year old male. Complaints include dysuria, urinary frequency, and fever. Assessment suggests urinary tract infection. Given or started nitrofurantoin. Workup includes urinalysis. Disposition: follow up urine culture."
+  },
+  {
+    "document_id": "doc_075",
+    "chunk_id": "doc_075_chunk_01",
+    "text": "ED note for 81 year old female. Complaints include headache and neck tightness. Assessment suggests tension headache. Given or started ibuprofen. Workup includes neurologic exam. Disposition: hydration and rest."
+  },
+  {
+    "document_id": "doc_076",
+    "chunk_id": "doc_076_chunk_01",
+    "text": "Follow-up visit: patient is a 81-year-old female. Known problems include atrial fibrillation. Reports palpitations and fatigue. Current treatment includes diltiazem. Testing discussed: telemetry monitoring. Next step: outpatient cardiology review."
+  },
+  {
+    "document_id": "doc_077",
+    "chunk_id": "doc_077_chunk_01",
+    "text": "Follow-up visit: patient is a 52-year-old male. Known problems include stroke. Reports slurred speech, right arm weakness, and facial droop. Current treatment includes aspirin. Testing discussed: CT head. Next step: stroke team activation."
+  },
+  {
+    "document_id": "doc_078",
+    "chunk_id": "doc_078_chunk_01",
+    "text": "Follow-up visit: patient is a 74-year-old male. Known problems include gastroesophageal reflux disease. Reports heartburn and epigastric discomfort. Current treatment includes omeprazole. Testing discussed: dietary counseling. Next step: avoid late meals."
+  },
+  {
+    "document_id": "doc_079",
+    "chunk_id": "doc_079_chunk_01",
+    "text": "Assessment: pulmonary embolism. Subjective findings include pleuritic chest pain, tachycardia, and shortness of breath. Plan is to continue or start enoxaparin, obtain CT pulmonary angiography, and arrange immediate inpatient management. Patient is a 45-year-old female."
+  },
+  {
+    "document_id": "doc_080",
+    "chunk_id": "doc_080_chunk_01",
+    "text": "Assessment: pulmonary embolism. Subjective findings include pleuritic chest pain, tachycardia, and shortness of breath. Plan is to continue or start enoxaparin, obtain CT pulmonary angiography, and arrange immediate inpatient management. Patient is a 59-year-old female."
+  },
+  {
+    "document_id": "doc_081",
+    "chunk_id": "doc_081_chunk_01",
+    "text": "Assessment: mild dehydration. Subjective findings include lightheadedness and dry mouth. Plan is to continue or start oral rehydration solution, obtain vital signs check, and arrange increase fluid intake. Patient is a 24-year-old male."
+  },
+  {
+    "document_id": "doc_082",
+    "chunk_id": "doc_082_chunk_01",
+    "text": "ED note for 24 year old male. Complaints include headache and neck tightness. Assessment suggests tension headache. Given or started ibuprofen. Workup includes neurologic exam. Disposition: hydration and rest."
+  },
+  {
+    "document_id": "doc_083",
+    "chunk_id": "doc_083_chunk_01",
+    "text": "Patient is a 45-year-old male with history of congestive heart failure and coronary artery disease presenting with severe shortness of breath, orthopnea, and leg swelling. Started on furosemide and aspirin. BNP test and echocardiogram ordered. urgent cardiology evaluation."
+  },
+  {
+    "document_id": "doc_084",
+    "chunk_id": "doc_084_chunk_01",
+    "text": "Assessment: community acquired pneumonia. Subjective findings include fever, productive cough, and shortness of breath. Plan is to continue or start azithromycin, obtain chest x-ray, and arrange follow up in 48 hours. Patient is a 59-year-old male."
+  },
+  {
+    "document_id": "doc_085",
+    "chunk_id": "doc_085_chunk_01",
+    "text": "Patient is a 67-year-old male with history of congestive heart failure and coronary artery disease presenting with severe shortness of breath, orthopnea, and leg swelling. Started on furosemide and aspirin. BNP test and echocardiogram ordered. urgent cardiology evaluation."
+  },
+  {
+    "document_id": "doc_086",
+    "chunk_id": "doc_086_chunk_01",
+    "text": "ED note for 45 year old male. Complaints include crushing chest pain, diaphoresis, and nausea. Assessment suggests acute coronary syndrome. Given or started nitroglycerin and heparin. Workup includes serial troponin test and ECG. Disposition: emergency cardiology consultation."
+  },
+  {
+    "document_id": "doc_087",
+    "chunk_id": "doc_087_chunk_01",
+    "text": "Assessment: mild dehydration. Subjective findings include lightheadedness and dry mouth. Plan is to continue or start oral rehydration solution, obtain vital signs check, and arrange increase fluid intake. Patient is a 38-year-old male."
+  },
+  {
+    "document_id": "doc_088",
+    "chunk_id": "doc_088_chunk_01",
+    "text": "Follow-up visit: patient is a 59-year-old female. Known problems include gastroesophageal reflux disease. Reports heartburn and epigastric discomfort. Current treatment includes omeprazole. Testing discussed: dietary counseling. Next step: avoid late meals."
+  },
+  {
+    "document_id": "doc_089",
+    "chunk_id": "doc_089_chunk_01",
+    "text": "History: 81-year-old female with chronic obstructive pulmonary disease. Symptoms: wheezing and increased cough. Medications: albuterol and prednisone. Procedures: chest x-ray. Plan: return if breathing worsens."
+  },
+  {
+    "document_id": "doc_090",
+    "chunk_id": "doc_090_chunk_01",
+    "text": "Assessment: community acquired pneumonia. Subjective findings include fever, productive cough, and shortness of breath. Plan is to continue or start azithromycin, obtain chest x-ray, and arrange follow up in 48 hours. Patient is a 81-year-old male."
+  },
+  {
+    "document_id": "doc_091",
+    "chunk_id": "doc_091_chunk_01",
+    "text": "ED note for 31 year old female. Complaints include crushing chest pain, diaphoresis, and nausea. Assessment suggests acute coronary syndrome. Given or started nitroglycerin and heparin. Workup includes serial troponin test and ECG. Disposition: emergency cardiology consultation."
+  },
+  {
+    "document_id": "doc_092",
+    "chunk_id": "doc_092_chunk_01",
+    "text": "Assessment: community acquired pneumonia. Subjective findings include fever, productive cough, and shortness of breath. Plan is to continue or start azithromycin, obtain chest x-ray, and arrange follow up in 48 hours. Patient is a 24-year-old male."
+  },
+  {
+    "document_id": "doc_093",
+    "chunk_id": "doc_093_chunk_01",
+    "text": "Patient is a 59-year-old male with history of seasonal allergic rhinitis presenting with nasal congestion and sneezing. Started on loratadine. allergy review ordered. follow up with primary care if symptoms persist."
+  },
+  {
+    "document_id": "doc_094",
+    "chunk_id": "doc_094_chunk_01",
+    "text": "Follow-up visit: patient is a 59-year-old male. Known problems include gastroesophageal reflux disease. Reports heartburn and epigastric discomfort. Current treatment includes omeprazole. Testing discussed: dietary counseling. Next step: avoid late meals."
+  },
+  {
+    "document_id": "doc_095",
+    "chunk_id": "doc_095_chunk_01",
+    "text": "History: 31-year-old female with viral upper respiratory infection. Symptoms: sore throat and mild cough. Medications: acetaminophen. Procedures: rapid strep test. Plan: supportive care at home."
+  },
+  {
+    "document_id": "doc_096",
+    "chunk_id": "doc_096_chunk_01",
+    "text": "History: 38-year-old female with chronic obstructive pulmonary disease. Symptoms: wheezing and increased cough. Medications: albuterol and prednisone. Procedures: chest x-ray. Plan: return if breathing worsens."
+  },
+  {
+    "document_id": "doc_097",
+    "chunk_id": "doc_097_chunk_01",
+    "text": "Patient is a 67-year-old male with history of hypertension and type 2 diabetes presenting with shortness of breath and chest discomfort. Started on metoprolol. ECG ordered. cardiology follow up recommended."
+  },
+  {
+    "document_id": "doc_098",
+    "chunk_id": "doc_098_chunk_01",
+    "text": "History: 31-year-old female with chronic obstructive pulmonary disease. Symptoms: wheezing and increased cough. Medications: albuterol and prednisone. Procedures: chest x-ray. Plan: return if breathing worsens."
+  },
+  {
+    "document_id": "doc_099",
+    "chunk_id": "doc_099_chunk_01",
+    "text": "History: 67-year-old female with viral upper respiratory infection. Symptoms: sore throat and mild cough. Medications: acetaminophen. Procedures: rapid strep test. Plan: supportive care at home."
+  },
+  {
+    "document_id": "doc_100",
+    "chunk_id": "doc_100_chunk_01",
+    "text": "Assessment: community acquired pneumonia. Subjective findings include fever, productive cough, and shortness of breath. Plan is to continue or start azithromycin, obtain chest x-ray, and arrange follow up in 48 hours. Patient is a 67-year-old female."
+  },
+  {
+    "document_id": "doc_101",
+    "chunk_id": "doc_101_chunk_01",
+    "text": "Follow-up visit: patient is a 81-year-old female. Known problems include gastroesophageal reflux disease. Reports heartburn and epigastric discomfort. Current treatment includes omeprazole. Testing discussed: dietary counseling. Next step: avoid late meals."
+  },
+  {
+    "document_id": "doc_102",
+    "chunk_id": "doc_102_chunk_01",
+    "text": "Patient is a 74-year-old female with history of seasonal allergic rhinitis presenting with nasal congestion and sneezing. Started on loratadine. allergy review ordered. follow up with primary care if symptoms persist."
+  },
+  {
+    "document_id": "doc_103",
+    "chunk_id": "doc_103_chunk_01",
+    "text": "ED note for 45 year old male. Complaints include headache and neck tightness. Assessment suggests tension headache. Given or started ibuprofen. Workup includes neurologic exam. Disposition: hydration and rest."
+  },
+  {
+    "document_id": "doc_104",
+    "chunk_id": "doc_104_chunk_01",
+    "text": "Patient is a 31-year-old male with history of hypertension and type 2 diabetes presenting with shortness of breath and chest discomfort. Started on metoprolol. ECG ordered. cardiology follow up recommended."
+  },
+  {
+    "document_id": "doc_105",
+    "chunk_id": "doc_105_chunk_01",
+    "text": "Patient is a 81-year-old female with history of hypertension and type 2 diabetes presenting with shortness of breath and chest discomfort. Started on metoprolol. ECG ordered. cardiology follow up recommended."
+  },
+  {
+    "document_id": "doc_106",
+    "chunk_id": "doc_106_chunk_01",
+    "text": "Patient is a 52-year-old male with history of seasonal allergic rhinitis presenting with nasal congestion and sneezing. Started on loratadine. allergy review ordered. follow up with primary care if symptoms persist."
+  },
+  {
+    "document_id": "doc_107",
+    "chunk_id": "doc_107_chunk_01",
+    "text": "Patient is a 45-year-old female with history of congestive heart failure and coronary artery disease presenting with severe shortness of breath, orthopnea, and leg swelling. Started on furosemide and aspirin. BNP test and echocardiogram ordered. urgent cardiology evaluation."
+  },
+  {
+    "document_id": "doc_108",
+    "chunk_id": "doc_108_chunk_01",
+    "text": "Patient is a 31-year-old male with history of hypertension and type 2 diabetes presenting with shortness of breath and chest discomfort. Started on metoprolol. ECG ordered. cardiology follow up recommended."
+  },
+  {
+    "document_id": "doc_109",
+    "chunk_id": "doc_109_chunk_01",
+    "text": "History: 81-year-old female with sepsis. Symptoms: high fever, hypotension, and confusion. Medications: broad spectrum antibiotics and intravenous fluids. Procedures: blood cultures and lactate test. Plan: hospital admission."
+  },
+  {
+    "document_id": "doc_110",
+    "chunk_id": "doc_110_chunk_01",
+    "text": "Assessment: mild dehydration. Subjective findings include lightheadedness and dry mouth. Plan is to continue or start oral rehydration solution, obtain vital signs check, and arrange increase fluid intake. Patient is a 52-year-old female."
+  },
+  {
+    "document_id": "doc_111",
+    "chunk_id": "doc_111_chunk_01",
+    "text": "ED note for 74 year old female. Complaints include headache and neck tightness. Assessment suggests tension headache. Given or started ibuprofen. Workup includes neurologic exam. Disposition: hydration and rest."
+  },
+  {
+    "document_id": "doc_112",
+    "chunk_id": "doc_112_chunk_01",
+    "text": "Patient is a 52-year-old female with history of congestive heart failure and coronary artery disease presenting with severe shortness of breath, orthopnea, and leg swelling. Started on furosemide and aspirin. BNP test and echocardiogram ordered. urgent cardiology evaluation."
+  },
+  {
+    "document_id": "doc_113",
+    "chunk_id": "doc_113_chunk_01",
+    "text": "Follow-up visit: patient is a 52-year-old male. Known problems include gastroesophageal reflux disease. Reports heartburn and epigastric discomfort. Current treatment includes omeprazole. Testing discussed: dietary counseling. Next step: avoid late meals."
+  },
+  {
+    "document_id": "doc_114",
+    "chunk_id": "doc_114_chunk_01",
+    "text": "History: 24-year-old male with viral upper respiratory infection. Symptoms: sore throat and mild cough. Medications: acetaminophen. Procedures: rapid strep test. Plan: supportive care at home."
+  },
+  {
+    "document_id": "doc_115",
+    "chunk_id": "doc_115_chunk_01",
+    "text": "History: 59-year-old male with chronic obstructive pulmonary disease. Symptoms: wheezing and increased cough. Medications: albuterol and prednisone. Procedures: chest x-ray. Plan: return if breathing worsens."
+  },
+  {
+    "document_id": "doc_116",
+    "chunk_id": "doc_116_chunk_01",
+    "text": "Patient is a 52-year-old female with history of congestive heart failure and coronary artery disease presenting with severe shortness of breath, orthopnea, and leg swelling. Started on furosemide and aspirin. BNP test and echocardiogram ordered. urgent cardiology evaluation."
+  },
+  {
+    "document_id": "doc_117",
+    "chunk_id": "doc_117_chunk_01",
+    "text": "Assessment: pulmonary embolism. Subjective findings include pleuritic chest pain, tachycardia, and shortness of breath. Plan is to continue or start enoxaparin, obtain CT pulmonary angiography, and arrange immediate inpatient management. Patient is a 67-year-old female."
+  },
+  {
+    "document_id": "doc_118",
+    "chunk_id": "doc_118_chunk_01",
+    "text": "History: 45-year-old female with sepsis. Symptoms: high fever, hypotension, and confusion. Medications: broad spectrum antibiotics and intravenous fluids. Procedures: blood cultures and lactate test. Plan: hospital admission."
+  },
+  {
+    "document_id": "doc_119",
+    "chunk_id": "doc_119_chunk_01",
+    "text": "ED note for 59 year old male. Complaints include dysuria, urinary frequency, and fever. Assessment suggests urinary tract infection. Given or started nitrofurantoin. Workup includes urinalysis. Disposition: follow up urine culture."
+  },
+  {
+    "document_id": "doc_120",
+    "chunk_id": "doc_120_chunk_01",
+    "text": "Assessment: mild dehydration. Subjective findings include lightheadedness and dry mouth. Plan is to continue or start oral rehydration solution, obtain vital signs check, and arrange increase fluid intake. Patient is a 52-year-old female."
+  },
+  {
+    "document_id": "doc_121",
+    "chunk_id": "doc_121_chunk_01",
+    "text": "Assessment: pulmonary embolism. Subjective findings include pleuritic chest pain, tachycardia, and shortness of breath. Plan is to continue or start enoxaparin, obtain CT pulmonary angiography, and arrange immediate inpatient management. Patient is a 52-year-old male."
+  },
+  {
+    "document_id": "doc_122",
+    "chunk_id": "doc_122_chunk_01",
+    "text": "ED note for 74 year old female. Complaints include headache and neck tightness. Assessment suggests tension headache. Given or started ibuprofen. Workup includes neurologic exam. Disposition: hydration and rest."
+  },
+  {
+    "document_id": "doc_123",
+    "chunk_id": "doc_123_chunk_01",
+    "text": "ED note for 31 year old male. Complaints include headache and neck tightness. Assessment suggests tension headache. Given or started ibuprofen. Workup includes neurologic exam. Disposition: hydration and rest."
+  },
+  {
+    "document_id": "doc_124",
+    "chunk_id": "doc_124_chunk_01",
+    "text": "Follow-up visit: patient is a 59-year-old female. Known problems include stroke. Reports slurred speech, right arm weakness, and facial droop. Current treatment includes aspirin. Testing discussed: CT head. Next step: stroke team activation."
+  },
+  {
+    "document_id": "doc_125",
+    "chunk_id": "doc_125_chunk_01",
+    "text": "Patient is a 59-year-old female with history of seasonal allergic rhinitis presenting with nasal congestion and sneezing. Started on loratadine. allergy review ordered. follow up with primary care if symptoms persist."
+  },
+  {
+    "document_id": "doc_126",
+    "chunk_id": "doc_126_chunk_01",
+    "text": "ED note for 59 year old female. Complaints include crushing chest pain, diaphoresis, and nausea. Assessment suggests acute coronary syndrome. Given or started nitroglycerin and heparin. Workup includes serial troponin test and ECG. Disposition: emergency cardiology consultation."
+  },
+  {
+    "document_id": "doc_127",
+    "chunk_id": "doc_127_chunk_01",
+    "text": "ED note for 67 year old male. Complaints include crushing chest pain, diaphoresis, and nausea. Assessment suggests acute coronary syndrome. Given or started nitroglycerin and heparin. Workup includes serial troponin test and ECG. Disposition: emergency cardiology consultation."
+  },
+  {
+    "document_id": "doc_128",
+    "chunk_id": "doc_128_chunk_01",
+    "text": "Follow-up visit: patient is a 81-year-old female. Known problems include gastroesophageal reflux disease. Reports heartburn and epigastric discomfort. Current treatment includes omeprazole. Testing discussed: dietary counseling. Next step: avoid late meals."
+  },
+  {
+    "document_id": "doc_129",
+    "chunk_id": "doc_129_chunk_01",
+    "text": "ED note for 38 year old male. Complaints include crushing chest pain, diaphoresis, and nausea. Assessment suggests acute coronary syndrome. Given or started nitroglycerin and heparin. Workup includes serial troponin test and ECG. Disposition: emergency cardiology consultation."
+  },
+  {
+    "document_id": "doc_130",
+    "chunk_id": "doc_130_chunk_01",
+    "text": "Follow-up visit: patient is a 38-year-old female. Known problems include stroke. Reports slurred speech, right arm weakness, and facial droop. Current treatment includes aspirin. Testing discussed: CT head. Next step: stroke team activation."
+  },
+  {
+    "document_id": "doc_131",
+    "chunk_id": "doc_131_chunk_01",
+    "text": "Patient is a 38-year-old female with history of seasonal allergic rhinitis presenting with nasal congestion and sneezing. Started on loratadine. allergy review ordered. follow up with primary care if symptoms persist."
+  },
+  {
+    "document_id": "doc_132",
+    "chunk_id": "doc_132_chunk_01",
+    "text": "History: 81-year-old female with sepsis. Symptoms: high fever, hypotension, and confusion. Medications: broad spectrum antibiotics and intravenous fluids. Procedures: blood cultures and lactate test. Plan: hospital admission."
+  },
+  {
+    "document_id": "doc_133",
+    "chunk_id": "doc_133_chunk_01",
+    "text": "Follow-up visit: patient is a 24-year-old female. Known problems include gastroesophageal reflux disease. Reports heartburn and epigastric discomfort. Current treatment includes omeprazole. Testing discussed: dietary counseling. Next step: avoid late meals."
+  },
+  {
+    "document_id": "doc_134",
+    "chunk_id": "doc_134_chunk_01",
+    "text": "ED note for 31 year old male. Complaints include crushing chest pain, diaphoresis, and nausea. Assessment suggests acute coronary syndrome. Given or started nitroglycerin and heparin. Workup includes serial troponin test and ECG. Disposition: emergency cardiology consultation."
+  },
+  {
+    "document_id": "doc_135",
+    "chunk_id": "doc_135_chunk_01",
+    "text": "History: 52-year-old female with viral upper respiratory infection. Symptoms: sore throat and mild cough. Medications: acetaminophen. Procedures: rapid strep test. Plan: supportive care at home."
+  },
+  {
+    "document_id": "doc_136",
+    "chunk_id": "doc_136_chunk_01",
+    "text": "ED note for 59 year old female. Complaints include headache and neck tightness. Assessment suggests tension headache. Given or started ibuprofen. Workup includes neurologic exam. Disposition: hydration and rest."
+  },
+  {
+    "document_id": "doc_137",
+    "chunk_id": "doc_137_chunk_01",
+    "text": "History: 52-year-old female with sepsis. Symptoms: high fever, hypotension, and confusion. Medications: broad spectrum antibiotics and intravenous fluids. Procedures: blood cultures and lactate test. Plan: hospital admission."
+  },
+  {
+    "document_id": "doc_138",
+    "chunk_id": "doc_138_chunk_01",
+    "text": "ED note for 45 year old male. Complaints include crushing chest pain, diaphoresis, and nausea. Assessment suggests acute coronary syndrome. Given or started nitroglycerin and heparin. Workup includes serial troponin test and ECG. Disposition: emergency cardiology consultation."
+  },
+  {
+    "document_id": "doc_139",
+    "chunk_id": "doc_139_chunk_01",
+    "text": "History: 31-year-old female with chronic obstructive pulmonary disease. Symptoms: wheezing and increased cough. Medications: albuterol and prednisone. Procedures: chest x-ray. Plan: return if breathing worsens."
+  },
+  {
+    "document_id": "doc_140",
+    "chunk_id": "doc_140_chunk_01",
+    "text": "Follow-up visit: patient is a 24-year-old female. Known problems include atrial fibrillation. Reports palpitations and fatigue. Current treatment includes diltiazem. Testing discussed: telemetry monitoring. Next step: outpatient cardiology review."
+  },
+  {
+    "document_id": "doc_141",
+    "chunk_id": "doc_141_chunk_01",
+    "text": "Follow-up visit: patient is a 45-year-old male. Known problems include gastroesophageal reflux disease. Reports heartburn and epigastric discomfort. Current treatment includes omeprazole. Testing discussed: dietary counseling. Next step: avoid late meals."
+  },
+  {
+    "document_id": "doc_142",
+    "chunk_id": "doc_142_chunk_01",
+    "text": "History: 31-year-old male with viral upper respiratory infection. Symptoms: sore throat and mild cough. Medications: acetaminophen. Procedures: rapid strep test. Plan: supportive care at home."
+  },
+  {
+    "document_id": "doc_143",
+    "chunk_id": "doc_143_chunk_01",
+    "text": "History: 74-year-old male with sepsis. Symptoms: high fever, hypotension, and confusion. Medications: broad spectrum antibiotics and intravenous fluids. Procedures: blood cultures and lactate test. Plan: hospital admission."
+  },
+  {
+    "document_id": "doc_144",
+    "chunk_id": "doc_144_chunk_01",
+    "text": "Follow-up visit: patient is a 59-year-old male. Known problems include gastroesophageal reflux disease. Reports heartburn and epigastric discomfort. Current treatment includes omeprazole. Testing discussed: dietary counseling. Next step: avoid late meals."
+  },
+  {
+    "document_id": "doc_145",
+    "chunk_id": "doc_145_chunk_01",
+    "text": "Assessment: mild dehydration. Subjective findings include lightheadedness and dry mouth. Plan is to continue or start oral rehydration solution, obtain vital signs check, and arrange increase fluid intake. Patient is a 31-year-old male."
+  },
+  {
+    "document_id": "doc_146",
+    "chunk_id": "doc_146_chunk_01",
+    "text": "ED note for 81 year old female. Complaints include headache and neck tightness. Assessment suggests tension headache. Given or started ibuprofen. Workup includes neurologic exam. Disposition: hydration and rest."
+  },
+  {
+    "document_id": "doc_147",
+    "chunk_id": "doc_147_chunk_01",
+    "text": "History: 52-year-old female with sepsis. Symptoms: high fever, hypotension, and confusion. Medications: broad spectrum antibiotics and intravenous fluids. Procedures: blood cultures and lactate test. Plan: hospital admission."
+  },
+  {
+    "document_id": "doc_148",
+    "chunk_id": "doc_148_chunk_01",
+    "text": "History: 45-year-old female with chronic obstructive pulmonary disease. Symptoms: wheezing and increased cough. Medications: albuterol and prednisone. Procedures: chest x-ray. Plan: return if breathing worsens."
+  },
+  {
+    "document_id": "doc_149",
+    "chunk_id": "doc_149_chunk_01",
+    "text": "ED note for 59 year old female. Complaints include dysuria, urinary frequency, and fever. Assessment suggests urinary tract infection. Given or started nitrofurantoin. Workup includes urinalysis. Disposition: follow up urine culture."
+  },
+  {
+    "document_id": "doc_150",
+    "chunk_id": "doc_150_chunk_01",
+    "text": "Patient is a 31-year-old female with history of hypertension and type 2 diabetes presenting with shortness of breath and chest discomfort. Started on metoprolol. ECG ordered. cardiology follow up recommended."
+  },
+  {
+    "document_id": "doc_151",
+    "chunk_id": "doc_151_chunk_01",
+    "text": "ED note for 31 year old male. Complaints include crushing chest pain, diaphoresis, and nausea. Assessment suggests acute coronary syndrome. Given or started nitroglycerin and heparin. Workup includes serial troponin test and ECG. Disposition: emergency cardiology consultation."
+  },
+  {
+    "document_id": "doc_152",
+    "chunk_id": "doc_152_chunk_01",
+    "text": "ED note for 59 year old male. Complaints include crushing chest pain, diaphoresis, and nausea. Assessment suggests acute coronary syndrome. Given or started nitroglycerin and heparin. Workup includes serial troponin test and ECG. Disposition: emergency cardiology consultation."
+  },
+  {
+    "document_id": "doc_153",
+    "chunk_id": "doc_153_chunk_01",
+    "text": "Patient is a 38-year-old male with history of seasonal allergic rhinitis presenting with nasal congestion and sneezing. Started on loratadine. allergy review ordered. follow up with primary care if symptoms persist."
+  },
+  {
+    "document_id": "doc_154",
+    "chunk_id": "doc_154_chunk_01",
+    "text": "Follow-up visit: patient is a 59-year-old female. Known problems include atrial fibrillation. Reports palpitations and fatigue. Current treatment includes diltiazem. Testing discussed: telemetry monitoring. Next step: outpatient cardiology review."
+  },
+  {
+    "document_id": "doc_155",
+    "chunk_id": "doc_155_chunk_01",
+    "text": "Patient is a 45-year-old female with history of congestive heart failure and coronary artery disease presenting with severe shortness of breath, orthopnea, and leg swelling. Started on furosemide and aspirin. BNP test and echocardiogram ordered. urgent cardiology evaluation."
+  },
+  {
+    "document_id": "doc_156",
+    "chunk_id": "doc_156_chunk_01",
+    "text": "History: 52-year-old female with sepsis. Symptoms: high fever, hypotension, and confusion. Medications: broad spectrum antibiotics and intravenous fluids. Procedures: blood cultures and lactate test. Plan: hospital admission."
+  },
+  {
+    "document_id": "doc_157",
+    "chunk_id": "doc_157_chunk_01",
+    "text": "ED note for 31 year old male. Complaints include crushing chest pain, diaphoresis, and nausea. Assessment suggests acute coronary syndrome. Given or started nitroglycerin and heparin. Workup includes serial troponin test and ECG. Disposition: emergency cardiology consultation."
+  },
+  {
+    "document_id": "doc_158",
+    "chunk_id": "doc_158_chunk_01",
+    "text": "History: 67-year-old female with chronic obstructive pulmonary disease. Symptoms: wheezing and increased cough. Medications: albuterol and prednisone. Procedures: chest x-ray. Plan: return if breathing worsens."
+  },
+  {
+    "document_id": "doc_159",
+    "chunk_id": "doc_159_chunk_01",
+    "text": "Follow-up visit: patient is a 67-year-old male. Known problems include stroke. Reports slurred speech, right arm weakness, and facial droop. Current treatment includes aspirin. Testing discussed: CT head. Next step: stroke team activation."
+  },
+  {
+    "document_id": "doc_160",
+    "chunk_id": "doc_160_chunk_01",
+    "text": "History: 59-year-old female with viral upper respiratory infection. Symptoms: sore throat and mild cough. Medications: acetaminophen. Procedures: rapid strep test. Plan: supportive care at home."
+  },
+  {
+    "document_id": "doc_161",
+    "chunk_id": "doc_161_chunk_01",
+    "text": "Patient is a 81-year-old male with history of congestive heart failure and coronary artery disease presenting with severe shortness of breath, orthopnea, and leg swelling. Started on furosemide and aspirin. BNP test and echocardiogram ordered. urgent cardiology evaluation."
+  },
+  {
+    "document_id": "doc_162",
+    "chunk_id": "doc_162_chunk_01",
+    "text": "Assessment: community acquired pneumonia. Subjective findings include fever, productive cough, and shortness of breath. Plan is to continue or start azithromycin, obtain chest x-ray, and arrange follow up in 48 hours. Patient is a 67-year-old male."
+  },
+  {
+    "document_id": "doc_163",
+    "chunk_id": "doc_163_chunk_01",
+    "text": "Follow-up visit: patient is a 38-year-old female. Known problems include stroke. Reports slurred speech, right arm weakness, and facial droop. Current treatment includes aspirin. Testing discussed: CT head. Next step: stroke team activation."
+  },
+  {
+    "document_id": "doc_164",
+    "chunk_id": "doc_164_chunk_01",
+    "text": "Follow-up visit: patient is a 24-year-old female. Known problems include atrial fibrillation. Reports palpitations and fatigue. Current treatment includes diltiazem. Testing discussed: telemetry monitoring. Next step: outpatient cardiology review."
+  },
+  {
+    "document_id": "doc_165",
+    "chunk_id": "doc_165_chunk_01",
+    "text": "Assessment: pulmonary embolism. Subjective findings include pleuritic chest pain, tachycardia, and shortness of breath. Plan is to continue or start enoxaparin, obtain CT pulmonary angiography, and arrange immediate inpatient management. Patient is a 52-year-old female."
+  },
+  {
+    "document_id": "doc_166",
+    "chunk_id": "doc_166_chunk_01",
+    "text": "ED note for 45 year old female. Complaints include dysuria, urinary frequency, and fever. Assessment suggests urinary tract infection. Given or started nitrofurantoin. Workup includes urinalysis. Disposition: follow up urine culture."
+  },
+  {
+    "document_id": "doc_167",
+    "chunk_id": "doc_167_chunk_01",
+    "text": "Patient is a 31-year-old male with history of hypertension and type 2 diabetes presenting with shortness of breath and chest discomfort. Started on metoprolol. ECG ordered. cardiology follow up recommended."
+  },
+  {
+    "document_id": "doc_168",
+    "chunk_id": "doc_168_chunk_01",
+    "text": "Follow-up visit: patient is a 52-year-old female. Known problems include stroke. Reports slurred speech, right arm weakness, and facial droop. Current treatment includes aspirin. Testing discussed: CT head. Next step: stroke team activation."
+  },
+  {
+    "document_id": "doc_169",
+    "chunk_id": "doc_169_chunk_01",
+    "text": "Patient is a 38-year-old male with history of hypertension and type 2 diabetes presenting with shortness of breath and chest discomfort. Started on metoprolol. ECG ordered. cardiology follow up recommended."
+  },
+  {
+    "document_id": "doc_170",
+    "chunk_id": "doc_170_chunk_01",
+    "text": "Follow-up visit: patient is a 31-year-old male. Known problems include atrial fibrillation. Reports palpitations and fatigue. Current treatment includes diltiazem. Testing discussed: telemetry monitoring. Next step: outpatient cardiology review."
+  },
+  {
+    "document_id": "doc_171",
+    "chunk_id": "doc_171_chunk_01",
+    "text": "Follow-up visit: patient is a 31-year-old female. Known problems include stroke. Reports slurred speech, right arm weakness, and facial droop. Current treatment includes aspirin. Testing discussed: CT head. Next step: stroke team activation."
+  },
+  {
+    "document_id": "doc_172",
+    "chunk_id": "doc_172_chunk_01",
+    "text": "Patient is a 67-year-old female with history of congestive heart failure and coronary artery disease presenting with severe shortness of breath, orthopnea, and leg swelling. Started on furosemide and aspirin. BNP test and echocardiogram ordered. urgent cardiology evaluation."
+  },
+  {
+    "document_id": "doc_173",
+    "chunk_id": "doc_173_chunk_01",
+    "text": "Patient is a 31-year-old female with history of seasonal allergic rhinitis presenting with nasal congestion and sneezing. Started on loratadine. allergy review ordered. follow up with primary care if symptoms persist."
+  },
+  {
+    "document_id": "doc_174",
+    "chunk_id": "doc_174_chunk_01",
+    "text": "Patient is a 38-year-old male with history of hypertension and type 2 diabetes presenting with shortness of breath and chest discomfort. Started on metoprolol. ECG ordered. cardiology follow up recommended."
+  },
+  {
+    "document_id": "doc_175",
+    "chunk_id": "doc_175_chunk_01",
+    "text": "Follow-up visit: patient is a 24-year-old female. Known problems include atrial fibrillation. Reports palpitations and fatigue. Current treatment includes diltiazem. Testing discussed: telemetry monitoring. Next step: outpatient cardiology review."
+  },
+  {
+    "document_id": "doc_176",
+    "chunk_id": "doc_176_chunk_01",
+    "text": "ED note for 45 year old female. Complaints include headache and neck tightness. Assessment suggests tension headache. Given or started ibuprofen. Workup includes neurologic exam. Disposition: hydration and rest."
+  },
+  {
+    "document_id": "doc_177",
+    "chunk_id": "doc_177_chunk_01",
+    "text": "Patient is a 81-year-old female with history of congestive heart failure and coronary artery disease presenting with severe shortness of breath, orthopnea, and leg swelling. Started on furosemide and aspirin. BNP test and echocardiogram ordered. urgent cardiology evaluation."
+  },
+  {
+    "document_id": "doc_178",
+    "chunk_id": "doc_178_chunk_01",
+    "text": "ED note for 24 year old male. Complaints include dysuria, urinary frequency, and fever. Assessment suggests urinary tract infection. Given or started nitrofurantoin. Workup includes urinalysis. Disposition: follow up urine culture."
+  },
+  {
+    "document_id": "doc_179",
+    "chunk_id": "doc_179_chunk_01",
+    "text": "Assessment: pulmonary embolism. Subjective findings include pleuritic chest pain, tachycardia, and shortness of breath. Plan is to continue or start enoxaparin, obtain CT pulmonary angiography, and arrange immediate inpatient management. Patient is a 38-year-old male."
+  },
+  {
+    "document_id": "doc_180",
+    "chunk_id": "doc_180_chunk_01",
+    "text": "Follow-up visit: patient is a 67-year-old female. Known problems include atrial fibrillation. Reports palpitations and fatigue. Current treatment includes diltiazem. Testing discussed: telemetry monitoring. Next step: outpatient cardiology review."
+  },
+  {
+    "document_id": "doc_181",
+    "chunk_id": "doc_181_chunk_01",
+    "text": "ED note for 67 year old male. Complaints include dysuria, urinary frequency, and fever. Assessment suggests urinary tract infection. Given or started nitrofurantoin. Workup includes urinalysis. Disposition: follow up urine culture."
+  },
+  {
+    "document_id": "doc_182",
+    "chunk_id": "doc_182_chunk_01",
+    "text": "History: 31-year-old male with sepsis. Symptoms: high fever, hypotension, and confusion. Medications: broad spectrum antibiotics and intravenous fluids. Procedures: blood cultures and lactate test. Plan: hospital admission."
+  },
+  {
+    "document_id": "doc_183",
+    "chunk_id": "doc_183_chunk_01",
+    "text": "ED note for 81 year old female. Complaints include headache and neck tightness. Assessment suggests tension headache. Given or started ibuprofen. Workup includes neurologic exam. Disposition: hydration and rest."
+  },
+  {
+    "document_id": "doc_184",
+    "chunk_id": "doc_184_chunk_01",
+    "text": "Assessment: mild dehydration. Subjective findings include lightheadedness and dry mouth. Plan is to continue or start oral rehydration solution, obtain vital signs check, and arrange increase fluid intake. Patient is a 38-year-old male."
+  },
+  {
+    "document_id": "doc_185",
+    "chunk_id": "doc_185_chunk_01",
+    "text": "ED note for 31 year old female. Complaints include headache and neck tightness. Assessment suggests tension headache. Given or started ibuprofen. Workup includes neurologic exam. Disposition: hydration and rest."
+  },
+  {
+    "document_id": "doc_186",
+    "chunk_id": "doc_186_chunk_01",
+    "text": "History: 31-year-old female with chronic obstructive pulmonary disease. Symptoms: wheezing and increased cough. Medications: albuterol and prednisone. Procedures: chest x-ray. Plan: return if breathing worsens."
+  },
+  {
+    "document_id": "doc_187",
+    "chunk_id": "doc_187_chunk_01",
+    "text": "Patient is a 81-year-old female with history of seasonal allergic rhinitis presenting with nasal congestion and sneezing. Started on loratadine. allergy review ordered. follow up with primary care if symptoms persist."
+  },
+  {
+    "document_id": "doc_188",
+    "chunk_id": "doc_188_chunk_01",
+    "text": "Follow-up visit: patient is a 24-year-old male. Known problems include stroke. Reports slurred speech, right arm weakness, and facial droop. Current treatment includes aspirin. Testing discussed: CT head. Next step: stroke team activation."
+  },
+  {
+    "document_id": "doc_189",
+    "chunk_id": "doc_189_chunk_01",
+    "text": "Follow-up visit: patient is a 38-year-old male. Known problems include stroke. Reports slurred speech, right arm weakness, and facial droop. Current treatment includes aspirin. Testing discussed: CT head. Next step: stroke team activation."
+  },
+  {
+    "document_id": "doc_190",
+    "chunk_id": "doc_190_chunk_01",
+    "text": "Follow-up visit: patient is a 59-year-old female. Known problems include atrial fibrillation. Reports palpitations and fatigue. Current treatment includes diltiazem. Testing discussed: telemetry monitoring. Next step: outpatient cardiology review."
+  },
+  {
+    "document_id": "doc_191",
+    "chunk_id": "doc_191_chunk_01",
+    "text": "Assessment: pulmonary embolism. Subjective findings include pleuritic chest pain, tachycardia, and shortness of breath. Plan is to continue or start enoxaparin, obtain CT pulmonary angiography, and arrange immediate inpatient management. Patient is a 38-year-old male."
+  },
+  {
+    "document_id": "doc_192",
+    "chunk_id": "doc_192_chunk_01",
+    "text": "Patient is a 59-year-old male with history of hypertension and type 2 diabetes presenting with shortness of breath and chest discomfort. Started on metoprolol. ECG ordered. cardiology follow up recommended."
+  },
+  {
+    "document_id": "doc_193",
+    "chunk_id": "doc_193_chunk_01",
+    "text": "Assessment: mild dehydration. Subjective findings include lightheadedness and dry mouth. Plan is to continue or start oral rehydration solution, obtain vital signs check, and arrange increase fluid intake. Patient is a 59-year-old male."
+  },
+  {
+    "document_id": "doc_194",
+    "chunk_id": "doc_194_chunk_01",
+    "text": "Assessment: community acquired pneumonia. Subjective findings include fever, productive cough, and shortness of breath. Plan is to continue or start azithromycin, obtain chest x-ray, and arrange follow up in 48 hours. Patient is a 31-year-old male."
+  },
+  {
+    "document_id": "doc_195",
+    "chunk_id": "doc_195_chunk_01",
+    "text": "History: 52-year-old male with viral upper respiratory infection. Symptoms: sore throat and mild cough. Medications: acetaminophen. Procedures: rapid strep test. Plan: supportive care at home."
+  },
+  {
+    "document_id": "doc_196",
+    "chunk_id": "doc_196_chunk_01",
+    "text": "Assessment: mild dehydration. Subjective findings include lightheadedness and dry mouth. Plan is to continue or start oral rehydration solution, obtain vital signs check, and arrange increase fluid intake. Patient is a 59-year-old male."
+  },
+  {
+    "document_id": "doc_197",
+    "chunk_id": "doc_197_chunk_01",
+    "text": "History: 45-year-old male with viral upper respiratory infection. Symptoms: sore throat and mild cough. Medications: acetaminophen. Procedures: rapid strep test. Plan: supportive care at home."
+  },
+  {
+    "document_id": "doc_198",
+    "chunk_id": "doc_198_chunk_01",
+    "text": "Assessment: mild dehydration. Subjective findings include lightheadedness and dry mouth. Plan is to continue or start oral rehydration solution, obtain vital signs check, and arrange increase fluid intake. Patient is a 45-year-old female."
+  },
+  {
+    "document_id": "doc_199",
+    "chunk_id": "doc_199_chunk_01",
+    "text": "Patient is a 81-year-old male with history of hypertension and type 2 diabetes presenting with shortness of breath and chest discomfort. Started on metoprolol. ECG ordered. cardiology follow up recommended."
+  },
+  {
+    "document_id": "doc_200",
+    "chunk_id": "doc_200_chunk_01",
+    "text": "Assessment: community acquired pneumonia. Subjective findings include fever, productive cough, and shortness of breath. Plan is to continue or start azithromycin, obtain chest x-ray, and arrange follow up in 48 hours. Patient is a 38-year-old male."
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "test_record_count": 30,
+  "extraction": {
+    "diagnosis": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "exact_match": 1.0,
+      "missing_field": 0.0,
+      "hallucination_rate": 0.0
+    },
+    "symptoms": {
+      "precision": 0.975,
+      "recall": 1.0,
+      "f1": 0.9857142857142858,
+      "exact_match": 0.9,
+      "missing_field": 0.0,
+      "hallucination_rate": 0.025
+    },
+    "medications": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "exact_match": 1.0,
+      "missing_field": 0.0,
+      "hallucination_rate": 0.0
+    },
+    "procedures": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "exact_match": 1.0,
+      "missing_field": 0.0,
+      "hallucination_rate": 0.0
+    },
+    "follow_up_actions": {
+      "precision": 0.95,
+      "recall": 1.0,
+      "f1": 0.9666666666666667,
+      "exact_match": 0.9,
+      "missing_field": 0.0,
+      "hallucination_rate": 0.05
+    }
+  },
+  "retrieval": {
+    "retrieval_hit_rate": 1.0,
+    "citation_coverage": 1.0,
+    "unsupported_citation_rate": 0.0
+  },
+  "ml": {
+    "accuracy": 1.0,
+    "precision_macro": 1.0,
+    "recall_macro": 1.0,
+    "f1_macro": 1.0,
+    "confusion_matrix": [
+      [
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        11,
+        0
+      ],
+      [
+        0,
+        0,
+        11
+      ]
+    ]
+  }
+}

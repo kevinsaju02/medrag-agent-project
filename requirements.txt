@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+pydantic
+pydantic-settings
+langgraph
+scikit-learn
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+python-dotenv
+pytest
